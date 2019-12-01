@@ -71,3 +71,8 @@ div.searchbox {
 body > div > input {
     color: #D7D8D7;
 }
+
+.orange_img img {
+    width: 35%;
+    padding: 25% 0;
+}
